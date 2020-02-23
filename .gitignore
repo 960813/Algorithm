@@ -355,3 +355,6 @@ MigrationBackup/
 *.sln
 *.vcxproj*
 /main.c
+
+*.bat
+*.sh
