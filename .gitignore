@@ -356,6 +356,8 @@ MigrationBackup/
 *.vcxproj*
 /main.c
 /main.cpp
+/solve.py
 
 *.bat
 *.sh
+.idea/
