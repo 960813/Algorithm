@@ -358,6 +358,4 @@ MigrationBackup/
 /main.cpp
 /solve.py
 
-*.bat
-*.sh
 .idea/
