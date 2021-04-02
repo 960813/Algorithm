@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
 
-read -r number
+if [ $# -ne '1' ]; then
+  exit 0
+fi
+
+number=$1
 
 mkdir -p "BOJ/$number"
 cp "solve.py" "BOJ/$number/solve.py"
