@@ -12,3 +12,5 @@ cp "solve.py" "BOJ/$number/solve.py"
 git add .
 git commit -m "BOJ #[$number] commit"
 git push origin master
+
+cat /dev/null >./solve.py
